@@ -12,7 +12,7 @@
     max-height: 100%;
    position: fixed;
    z-index: 11;
-   width: 100%;
+   width: 100vw;
   }
 
   .logo {
@@ -468,7 +468,7 @@ width: 100%;
 }
 
 .menu_images{
-width: 470px;
+max-width: 470px;
 margin: auto;
 padding: 0 10px;
 }
@@ -738,10 +738,28 @@ margin: auto;
 
 }
 .p-tabs{
-width: 350px !important;
+width: 100%;
 margin: auto;
+padding: 0 20px;
+max-width: 350px;
+}
+.p-tabs h1{
+  width: 100%;
+margin: auto;
+max-width: 350px;
 
 }
+.p-tabs h2{
+  width: 100%;
+margin: auto;
+max-width: 350px;
+
+}
+.about-icons{
+flex-wrap:wrap ;
+
+}
+
 
 .tabs{
 padding: 0 20px;
@@ -997,13 +1015,15 @@ padding-top: 30px;
 padding: 0 0 20px 0;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 letter-spacing: 1px;
+      width:100%;
     }
 
 .recent-text{
 display: flex;
 color:#7e7c7c ;
-gap: 0 15px;
-
+gap:  15px;
+width: 100%;
+flex-wrap: wrap;
 }
 .recent-text i{
 font-size: 0.75rem;
