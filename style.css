@@ -181,20 +181,20 @@ transform: translate(-50%,-50%);
 
   .mySlides-1 {
     min-height: 103vh;
-    background: url(./img/bg_1.jpg.webp) center/cover no-repeat;
+    background: url(./coffeeblend/img/bg_1.jpg.webp) center/cover no-repeat;
 
     max-width: 100%;
   }
 
   .mySlides-2 {
     min-height: 103vh;
-    background: url(./img/bg_2.jpg.webp) center/cover no-repeat;
+    background: url(./coffeeblend/img/bg_2.jpg.webp) center/cover no-repeat;
 
     max-width: 100%;
   }
   .mySlides-3 {
     min-height: 103vh;
-    background: url(./img/bg_3.jpg.webp) center/cover no-repeat;
+    background: url(./coffeeblend/img/bg_3.jpg.webp) center/cover no-repeat;
 
     max-width: 100%;
   }
@@ -358,12 +358,12 @@ width: 100%;
 }
 .about_img-1 {
 width: 100%;
-background: url(/img/about.jpg.webp)center/cover no-repeat;
+background: url(/coffeeblend/img/about.jpg.webp)center/cover no-repeat;
 height: 300px;
 }
 .about__img-2 {
   width: 100%;
-  background: url(/img/bg_4.jpg\ cover.webp) center/cover no-repeat;
+  background: url(/coffeeblend/img/bg_4.jpg\ cover.webp) center/cover no-repeat;
 
 height: 380px;
 }
@@ -462,7 +462,7 @@ margin: auto;
 
   }
 .our_main-menu{
-background: url(/img/bg_4.jpg\ cover.webp) center/cover no-repeat;
+background: url(/coffeeblend/img/bg_4.jpg\ cover.webp) center/cover no-repeat;
 width: 100%;
 
 }
@@ -520,7 +520,7 @@ color: #fff;
 
 .our_numbers{
   width: 100%;
-  background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(/img/bg_2.jpg.webp)center/cover no-repeat ;
+  background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(/coffeeblend/img/bg_2.jpg.webp)center/cover no-repeat ;
 padding: 50px 0;
 height: 100%;
 
@@ -605,7 +605,7 @@ position: relative;
 
 /* coffee sale */
 .discover_coffee-sale{
-  background: url(/img/bg_4.jpg\ cover.webp)center/cover no-repeat fixed;
+  background: url(/coffeeblend/img/bg_4.jpg\ cover.webp)center/cover no-repeat fixed;
 
 }
 .coffee_sale-content{
@@ -801,7 +801,7 @@ font-weight: 600;
   
 .testimony{
   width: 100%;
-background: url(/img/bg_1.jpg.webp)center/cover no-repeat ;
+background: url(/coffeeblend/img/bg_1.jpg.webp)center/cover no-repeat ;
 height: 50vh;
 display: flex;
 align-items: center;
