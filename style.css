@@ -181,20 +181,20 @@ transform: translate(-50%,-50%);
 
   .mySlides-1 {
     min-height: 103vh;
-    background: url(./coffeeblend/img/bg_1.jpg.webp) center/cover no-repeat;
+    background: url(./img/bg_1.jpg.webp) center/cover no-repeat;
 
     max-width: 100%;
   }
 
   .mySlides-2 {
     min-height: 103vh;
-    background: url(./coffeeblend/img/bg_2.jpg.webp) center/cover no-repeat;
+    background: url(./img/bg_2.jpg.webp) center/cover no-repeat;
 
     max-width: 100%;
   }
   .mySlides-3 {
     min-height: 103vh;
-    background: url(./coffeeblend/img/bg_3.jpg.webp) center/cover no-repeat;
+    background: url(./img/bg_3.jpg.webp) center/cover no-repeat;
 
     max-width: 100%;
   }
